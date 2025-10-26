@@ -1,0 +1,24 @@
+[2025-10-26 00:12:28.068101]
+User: how r u
+Bot: hi it me
+
+[2025-10-26 00:12:37.014411]
+User: whats up
+Bot: I'm down
+
+[2025-10-26 00:12:47.563418]
+User: how are you
+Bot: How are you
+
+[2025-10-26 00:16:40.079113]
+User: how are you
+Bot: How are you?
+
+[2025-10-26 00:16:48.407697]
+User: HI
+Bot: Hi!
+
+[2025-10-26 00:16:53.952323]
+User: hlo
+Bot: I'm a big fan of the new one.
+
